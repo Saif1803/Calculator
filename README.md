@@ -1,5 +1,6 @@
 # Calculator
-<br>
 
 ## Here's the Screenshot
-![Screenshot] (Screenshot.png)
+<br>
+
+![Screenshot](Screenshot.png)
